@@ -1,4 +1,4 @@
- - Hi there 👋
+ ### Hi there 👋
  - I’m a student
  - I know how to work with C#, Java, Python and Lua
  - I am also learning JS, HTML, CSS and PHP 
