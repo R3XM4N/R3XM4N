@@ -1,7 +1,7 @@
  ### Hi there 👋
  - I’m a student
- - I know how to work with C#, Java, Python and Lua
- - I am also learning JS, HTML, CSS and PHP
+ - I know how to work with C#, C, Python, GDScript, Lua
+ - I know some Java, JS, HTML, CSS and PHP
 
 <!--
 **R3XM4N/R3XM4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
