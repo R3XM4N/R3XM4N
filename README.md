@@ -1,6 +1,6 @@
  ### Hi there 👋
  - I’m a student
- - I know how to work with C#, C, Python, GDScript, Lua
+ - I know how to work with C#, C++, C, Lua, Python and Godots GDScript
  - I know some Java, JS, HTML, CSS and PHP
 
 <!--
