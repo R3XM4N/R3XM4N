@@ -1,7 +1,10 @@
  ### Hi there 👋
- - I’m a student
- - I know how to work with C#, C++, C, Lua, Python and Godots GDScript
- - I know some Java, JS, HTML, CSS and PHP
+ - I’m currently a student looking for work
+ - I am a focused on programming and software engineering
+ - Most knowledgeable with C++ then C#
+ - I know how to work with C, Python, JS and Godots GDScript
+ - I know some Lua, Java, HTML, CSS and PHP
+ - Public repos are stuff that i don't care about being public currently mostly made of random abandoned projects of varying quality 
 
 <!--
 **R3XM4N/R3XM4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
